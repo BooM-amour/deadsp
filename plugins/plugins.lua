@@ -190,11 +190,11 @@ end
 return {
   patterns = {
     "^#plugins$",
-    "^#plugins? (+) ([%w_%.%-]+)$",
-    "^#plugins? (-) ([%w_%.%-]+)$",
-    "^#plugins? (+) ([%w_%.%-]+) (chat)",
-    "^#plugins? (-) ([%w_%.%-]+) (chat)",
-    "^#plugins? (*)$" },
+    "^#plugins? (enable) ([%w_%.%-]+)$",
+    "^#plugins? (disable) ([%w_%.%-]+)$",
+    "^#plugins? (enable) ([%w_%.%-]+) (chat)",
+    "^#plugins? (disable) ([%w_%.%-]+) (chat)",
+    "^#plugins? (reload)$" },
   run = run
 }
 
