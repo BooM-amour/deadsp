@@ -1,20 +1,16 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
---------------------------------------------------
---                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
---                                              --
---------------------------------------------------
+WE are with you on CHANNEL 
+public [https://telegram.me/KinGofFreaK]
+news   [https://telegram.me/DeaD_t34M]
+
+Developers: @KinG0fDeaD & @danyyyx 
+Support: @MR_Xface 
+
+
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @KinG0fDeaD @danyyyx\nSupport: @MR_xFACE\nChannels: @DeaD_T34M @KinGofFreaK'
 end
 
 return {
