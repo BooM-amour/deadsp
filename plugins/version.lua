@@ -10,7 +10,7 @@ Support: @MR_Xface
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @KinG0fDeaD @danyyyx\nSupport: @MR_xFACE\nChannels: @DeaD_T34M @KinGofFreaK'
+  return 'DeaDTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @KinG0fDeaD @danyyyx\nSupport: @MR_xFACE\nChannels: @DeaD_T34M @KinGofFreaK'
 end
 
 return {
